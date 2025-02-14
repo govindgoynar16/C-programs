@@ -1,1 +1,0 @@
-printf("fib of %d\n is:%d\n",n,fibN);
