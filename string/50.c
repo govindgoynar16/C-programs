@@ -2,6 +2,7 @@
 #include<string.h>
 void salting(char password[]);
 int main(){
+    printf("write password");
     char password[100];
     scanf("%s",password);
 salting(password);

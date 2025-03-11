@@ -10,7 +10,7 @@ int main() {
 }
 int countlength(char arr[]){
     int count=0;
-    for (int i=0; arr[i]!='\0';i++){
+    for(int i=0; arr[i]!='\0';i++){
     count++;
 }
 return count-1;
