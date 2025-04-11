@@ -1,6 +1,6 @@
-# fruits= ["apple","mango","banana"]
-# print(fruits)
-# print(type(fruits))
+fruits= ["apple","mango","banana"]
+print(fruits)
+print(type(fruits))
 
 
 # a=["ironman","hulk","thor","captain america"]
